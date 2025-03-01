@@ -4,7 +4,7 @@ print("psychoimported!")
 import numpy as np
 import serial
 import scipy.signal as sig
-from pacman import Pacman
+from eeg_pacman.pacman import Pacman
 #coding:utf-8
 from psychopy import visual, event
 import numpy as np
